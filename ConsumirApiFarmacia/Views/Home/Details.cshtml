@@ -1,0 +1,137 @@
+﻿@model Entidades.Farmacia
+
+@{
+    ViewBag.Title = "Detalle Farmacia";
+}
+
+<h2>Detalle</h2>
+
+<div>
+    <h4>Farmacia</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.fecha)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.fecha)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.local_id)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.local_id)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.local_nombre)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.local_nombre)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.comuna_nombre)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.comuna_nombre)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.fk_localidad)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.fk_localidad)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.localidad_nombre)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.localidad_nombre)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.local_direccion)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.local_direccion)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.funcionamiento_hora_apertura)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.funcionamiento_hora_apertura)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.funcionamiento_hora_cierre)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.funcionamiento_hora_cierre)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.local_telefono)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.local_telefono)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.local_lat)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.local_lat)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.local_lng)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.local_lng)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.funcionamiento_dia)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.funcionamiento_dia)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.fk_region)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.fk_region)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.fk_comuna)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.fk_comuna)
+        </dd>
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Volver Inicio", "Index")
+</p>

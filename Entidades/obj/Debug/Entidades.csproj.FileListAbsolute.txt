@@ -1,0 +1,18 @@
+C:\Users\jmarambiom\Desktop\PI\ConsumirApiFarmacia\Entidades\bin\Debug\Entidades.dll
+C:\Users\jmarambiom\Desktop\PI\ConsumirApiFarmacia\Entidades\bin\Debug\Entidades.pdb
+C:\Users\jmarambiom\Desktop\PI\ConsumirApiFarmacia\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+C:\Users\jmarambiom\Desktop\PI\ConsumirApiFarmacia\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\jmarambiom\Desktop\PI\ConsumirApiFarmacia\Entidades\obj\Debug\Entidades.dll
+C:\Users\jmarambiom\Desktop\PI\ConsumirApiFarmacia\Entidades\obj\Debug\Entidades.pdb
+C:\Users\David Alejandro\Documents\5to Semestre\Programación Avanzada de Aplicaciones\ConsumirApiFarmacia\Entidades\bin\Debug\Entidades.dll
+C:\Users\David Alejandro\Documents\5to Semestre\Programación Avanzada de Aplicaciones\ConsumirApiFarmacia\Entidades\bin\Debug\Entidades.pdb
+C:\Users\David Alejandro\Documents\5to Semestre\Programación Avanzada de Aplicaciones\ConsumirApiFarmacia\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+C:\Users\David Alejandro\Documents\5to Semestre\Programación Avanzada de Aplicaciones\ConsumirApiFarmacia\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\David Alejandro\Documents\5to Semestre\Programación Avanzada de Aplicaciones\ConsumirApiFarmacia\Entidades\obj\Debug\Entidades.dll
+C:\Users\David Alejandro\Documents\5to Semestre\Programación Avanzada de Aplicaciones\ConsumirApiFarmacia\Entidades\obj\Debug\Entidades.pdb
+C:\Users\manic\Downloads\ConsumirApiFarmacia\ConsumirApiFarmacia\Entidades\bin\Debug\Entidades.dll
+C:\Users\manic\Downloads\ConsumirApiFarmacia\ConsumirApiFarmacia\Entidades\bin\Debug\Entidades.pdb
+C:\Users\manic\Downloads\ConsumirApiFarmacia\ConsumirApiFarmacia\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+C:\Users\manic\Downloads\ConsumirApiFarmacia\ConsumirApiFarmacia\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\manic\Downloads\ConsumirApiFarmacia\ConsumirApiFarmacia\Entidades\obj\Debug\Entidades.dll
+C:\Users\manic\Downloads\ConsumirApiFarmacia\ConsumirApiFarmacia\Entidades\obj\Debug\Entidades.pdb

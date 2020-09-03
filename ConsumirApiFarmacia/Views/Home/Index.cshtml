@@ -1,0 +1,54 @@
+﻿@model IEnumerable<Entidades.Farmacia>
+
+@{
+    ViewBag.Title = "Farmacias de Turno";
+}
+
+<br />
+@Html.ActionLink("Todos", "Index") | @Html.ActionLink("Buscar", "Buscar")
+<hr />
+<h3>FARMACIAS DE TURNO | @DateTime.Now.ToString("dd/MM/yyyy")</h3>
+
+@if (Model.Count() == 0)
+{
+<hr />  
+<h3 style="color:red"><strong>No existen farmacias de turno para la comuna consultada</strong></h3>
+}
+else
+{
+    <table class="table">
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.local_id)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.local_nombre)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.comuna_nombre)
+            </th>
+            <th>Detalle</th>
+        </tr>
+
+
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.local_id)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.local_nombre)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.comuna_nombre)
+                </td>
+                <td>
+                    @Html.ActionLink("Ver", "Details", new { id = item.local_id })
+                </td>
+            </tr>
+        }
+
+
+    </table>
+}

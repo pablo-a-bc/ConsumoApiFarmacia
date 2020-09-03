@@ -1,0 +1,33 @@
+C:\Users\jmarambiom\Desktop\PI\ConsumirApiFarmacia\Negocio\bin\Debug\Negocio.dll
+C:\Users\jmarambiom\Desktop\PI\ConsumirApiFarmacia\Negocio\bin\Debug\Negocio.pdb
+C:\Users\jmarambiom\Desktop\PI\ConsumirApiFarmacia\Negocio\obj\Debug\Negocio.csprojAssemblyReference.cache
+C:\Users\jmarambiom\Desktop\PI\ConsumirApiFarmacia\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+C:\Users\jmarambiom\Desktop\PI\ConsumirApiFarmacia\Negocio\obj\Debug\Negocio.dll
+C:\Users\jmarambiom\Desktop\PI\ConsumirApiFarmacia\Negocio\obj\Debug\Negocio.pdb
+C:\Users\jmarambiom\Desktop\PI\ConsumirApiFarmacia\Negocio\bin\Debug\Entidades.dll
+C:\Users\jmarambiom\Desktop\PI\ConsumirApiFarmacia\Negocio\bin\Debug\Newtonsoft.Json.dll
+C:\Users\jmarambiom\Desktop\PI\ConsumirApiFarmacia\Negocio\bin\Debug\Entidades.pdb
+C:\Users\jmarambiom\Desktop\PI\ConsumirApiFarmacia\Negocio\bin\Debug\Newtonsoft.Json.xml
+C:\Users\jmarambiom\Desktop\PI\ConsumirApiFarmacia\Negocio\obj\Debug\Negocio.csproj.CopyComplete
+C:\Users\David Alejandro\Documents\5to Semestre\Programación Avanzada de Aplicaciones\ConsumirApiFarmacia\Negocio\bin\Debug\Negocio.dll
+C:\Users\David Alejandro\Documents\5to Semestre\Programación Avanzada de Aplicaciones\ConsumirApiFarmacia\Negocio\bin\Debug\Negocio.pdb
+C:\Users\David Alejandro\Documents\5to Semestre\Programación Avanzada de Aplicaciones\ConsumirApiFarmacia\Negocio\bin\Debug\Entidades.dll
+C:\Users\David Alejandro\Documents\5to Semestre\Programación Avanzada de Aplicaciones\ConsumirApiFarmacia\Negocio\bin\Debug\Newtonsoft.Json.dll
+C:\Users\David Alejandro\Documents\5to Semestre\Programación Avanzada de Aplicaciones\ConsumirApiFarmacia\Negocio\bin\Debug\Entidades.pdb
+C:\Users\David Alejandro\Documents\5to Semestre\Programación Avanzada de Aplicaciones\ConsumirApiFarmacia\Negocio\bin\Debug\Newtonsoft.Json.xml
+C:\Users\David Alejandro\Documents\5to Semestre\Programación Avanzada de Aplicaciones\ConsumirApiFarmacia\Negocio\obj\Debug\Negocio.csprojAssemblyReference.cache
+C:\Users\David Alejandro\Documents\5to Semestre\Programación Avanzada de Aplicaciones\ConsumirApiFarmacia\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+C:\Users\David Alejandro\Documents\5to Semestre\Programación Avanzada de Aplicaciones\ConsumirApiFarmacia\Negocio\obj\Debug\Negocio.csproj.CopyComplete
+C:\Users\David Alejandro\Documents\5to Semestre\Programación Avanzada de Aplicaciones\ConsumirApiFarmacia\Negocio\obj\Debug\Negocio.dll
+C:\Users\David Alejandro\Documents\5to Semestre\Programación Avanzada de Aplicaciones\ConsumirApiFarmacia\Negocio\obj\Debug\Negocio.pdb
+C:\Users\manic\Downloads\ConsumirApiFarmacia\ConsumirApiFarmacia\Negocio\bin\Debug\Negocio.dll
+C:\Users\manic\Downloads\ConsumirApiFarmacia\ConsumirApiFarmacia\Negocio\bin\Debug\Negocio.pdb
+C:\Users\manic\Downloads\ConsumirApiFarmacia\ConsumirApiFarmacia\Negocio\bin\Debug\Entidades.dll
+C:\Users\manic\Downloads\ConsumirApiFarmacia\ConsumirApiFarmacia\Negocio\bin\Debug\Newtonsoft.Json.dll
+C:\Users\manic\Downloads\ConsumirApiFarmacia\ConsumirApiFarmacia\Negocio\bin\Debug\Entidades.pdb
+C:\Users\manic\Downloads\ConsumirApiFarmacia\ConsumirApiFarmacia\Negocio\bin\Debug\Newtonsoft.Json.xml
+C:\Users\manic\Downloads\ConsumirApiFarmacia\ConsumirApiFarmacia\Negocio\obj\Debug\Negocio.csprojAssemblyReference.cache
+C:\Users\manic\Downloads\ConsumirApiFarmacia\ConsumirApiFarmacia\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+C:\Users\manic\Downloads\ConsumirApiFarmacia\ConsumirApiFarmacia\Negocio\obj\Debug\Negocio.csproj.CopyComplete
+C:\Users\manic\Downloads\ConsumirApiFarmacia\ConsumirApiFarmacia\Negocio\obj\Debug\Negocio.dll
+C:\Users\manic\Downloads\ConsumirApiFarmacia\ConsumirApiFarmacia\Negocio\obj\Debug\Negocio.pdb
